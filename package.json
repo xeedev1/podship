@@ -12,6 +12,7 @@
     "@google-cloud/speech": "^5.5.1",
     "@google-cloud/storage": "^6.11.0",
     "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
     "child_process": "^1.0.2",
     "const": "^1.0.0",
     "cors": "^2.8.5",
